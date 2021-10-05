@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "sql5064.site4now.net",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "clients_report",
+            "database": "db_a7aad9_jokav87146",
+            "username": "db_a7aad9_jokav87146_admin",
+            "password": "Aa123456"
+        }
+    ]
+}
